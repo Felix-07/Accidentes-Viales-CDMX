@@ -81,3 +81,6 @@ Los datos de incidentes viales fueron recopilados por El Centro de Comando, Cont
 
 ## Notas
 
+*Debido a que el proyecto no se acopla para resolver cada uno de los postwork, se adjunta un jupyter notebook independiente del proyecto que muestrar la resolución de los problemas.
+
+
