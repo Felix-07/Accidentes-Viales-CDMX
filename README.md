@@ -80,6 +80,7 @@ Los datos de incidentes viales fueron recopilados por El Centro de Comando, Cont
 
 
 ## Notas
+* Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos dentro del código. Si se desea ver las graficas y mapas puede ejecutar el [Jupyternotebook vesión Colab](https://colab.research.google.com/gist/Felix-07/ef847e8900d2089239aa094014fddbbc/proyecto-fase-3.ipynb ).
 
 *Debido a que el proyecto no se acopla para resolver cada uno de los postwork, se adjunta un jupyter notebook independiente del proyecto que muestrar la resolución de los problemas.
 
