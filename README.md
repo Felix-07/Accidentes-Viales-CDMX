@@ -20,7 +20,7 @@ Los datos de incidentes viales fueron recopilados por El Centro de Comando, Cont
 
 1. **Un Jupyter Notebook**: Se presenta el [código]( https://github.com/Felix-07/Accidentes-Viales-CDMX/blob/main/Proyecto/Proyecto_Fase_3.ipynb) en formato *ipynb* en donde se muestra proceso de cada una de las partes del proyecto, así como los resultados obtenidos. 
 
-2. **Vídeo**:Se adjunta el [link del vídeo]( https://youtu.be/BvNuIi8B2Ck) donde cada uno de los integrantes expone de manera breve cada parte del proyecto.
+2. **Vídeo**:Se adjunta el [link del vídeo](https://www.youtube.com/watch?v=wOxBCGTsbOY) donde cada uno de los integrantes expone de manera breve cada parte del proyecto.
 
 
 3. **Datasets**: Se adjunta los archivos utilizados durante el procesamiento en la [carpeta de google drive](https://drive.google.com/drive/folders/1eOCVO0lTw0F0eGiyR4zmuDStKTfZ0Qqh?usp=sharing).
