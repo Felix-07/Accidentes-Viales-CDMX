@@ -80,9 +80,9 @@ Los datos de incidentes viales fueron recopilados por El Centro de Comando, Cont
 
 
 ## Notas
-* Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos dentro del código. Si se desea ver las graficas y mapas puede ejecutar el [Jupyter notebook vesión Colab](https://colab.research.google.com/gist/Felix-07/ef847e8900d2089239aa094014fddbbc/proyecto-fase-3.ipynb ).
+* Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos dentro del código. Si se desea ver las graficas y mapas puede ejecutar el [Jupyter notebook versión Colab](https://colab.research.google.com/gist/Felix-07/ef847e8900d2089239aa094014fddbbc/proyecto-fase-3.ipynb ).
 
-* Se puede vizualizar el [mapa](https://felix-07.github.io/Accidentes-Viales-CDMX/Mayor_incidencia_y_ruta_mapa.html) los regiones de alta densidad de incidentes viales en superposición con las rutas y vias principales de transporte pubico 
+* Se puede vizualizar el [mapa](https://felix-07.github.io/Accidentes-Viales-CDMX/Mayor_incidencia_y_ruta_mapa.html) los regiones de alta densidad de incidentes viales en superposición con las rutas y vias principales de transporte publico. 
 
 
 
